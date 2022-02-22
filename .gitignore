@@ -4,3 +4,5 @@ __pycache__
 checkpoint.tar
 runs
 venv
+fb15k/
+fb15k-small/
